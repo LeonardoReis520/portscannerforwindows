@@ -1,7 +1,7 @@
-#####################################
-# Hacking Alchemy                   #
-# https://linktr.ee/hackingalchemy  #
-#####################################
+###########################################################
+# Leonardo Reis                                           #
+# https://www.linkedin.com/in/leonardo-reis-31ba3415b/    #
+###########################################################
 
 import tkinter as tk
 import tkinter.ttk as ttk
